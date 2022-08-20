@@ -36,4 +36,18 @@ source bin/activate
 ## after Cloneing Project you can use it in Postman So i am sharing postman collection also below
 https://www.getpostman.com/collections/53b4d14f4d814dc25ac7
 - use this post collection in your post man
+## Here Below I hosted This projects it only backend assignment so i didn't use any forntend so its API each
+# This the hosted my website projects
+https://revan.pythonanywhere.com/
 
+- Here after clicking this website you will navigate one tab there is api options will aperas like below
+    - admin/
+    - register/ [name='register']
+    - login/ [name='login']
+    - post/create/ [name='post-create']
+    - user/follow/ [name='user-follow']
+    - post/like/ [name='post-like']
+    - user/posts/ [name='posts']
+
+    
+    
