@@ -42,12 +42,15 @@ https://revan.pythonanywhere.com/
 
 - Here after clicking this website you will navigate one tab there is api options will aperas like below
     - admin/
-    - register/ [name='register']
+    - register/ [name='register'] ---> Here we can use like this below image in post man
+    [Screenshot register](https://user-images.githubusercontent.com/65714331/185740284-2b0aab5b-efb0-4983-a345-adbab567a5be.png)
     - login/ [name='login']
+    
     - post/create/ [name='post-create']
     - user/follow/ [name='user-follow']
     - post/like/ [name='post-like']
     - user/posts/ [name='posts']
 
     
+
     
